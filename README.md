@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLOps-Project
 
 ## Workflows
@@ -42,3 +43,7 @@ export MLFLOW_TRACKING_PASSWORD=b2edb1d1da991b286c779422094674077369df2b
 
 ```
 
+=======
+# Cancer-Detection
+Chest cancer, a complex and potentially life-threatening condition, requires early and accurate detection for effective treatment. Advancements in medical diagnostics have revolutionized the way healthcare professionals identify and manage this disease, offering patients improved outcomes and a better quality of life.
+>>>>>>> 861cc94f556687cfed8afef5be929b9d825ea727
